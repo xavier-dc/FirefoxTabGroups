@@ -1,10 +1,12 @@
 # Firefox Tab Groups
 
 I created functionality for tab groups in Firefox Nightly.
-This allows users to create tab groups using varying different methods such as:
+This allows users to create tab groups using varying methods such as:
 - Creating a master group from a specific tab
 - Adding tabs to an existing tab group
 - Open/closing all tabs related to said group
+
+
 
 # Some notable features
 ## Tab group color
