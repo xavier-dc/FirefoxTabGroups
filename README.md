@@ -7,6 +7,9 @@ This allows users to create tab groups using varying methods such as:
 - Open/closing all tabs related to said group
 
 ![image](https://github.com/user-attachments/assets/a7199909-8d7e-4db5-837a-39f30bfb7800)
+![image](https://github.com/user-attachments/assets/59475986-4c10-4dc7-a222-d14f6a36e14b)
+![image](https://github.com/user-attachments/assets/08ef9856-edef-4181-996b-2263cf307f93)
+
 
 <hr>
 # Some notable features
