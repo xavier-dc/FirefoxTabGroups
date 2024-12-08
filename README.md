@@ -6,8 +6,9 @@ This allows users to create tab groups using varying methods such as:
 - Adding tabs to an existing tab group
 - Open/closing all tabs related to said group
 
+![image](https://github.com/user-attachments/assets/a7199909-8d7e-4db5-837a-39f30bfb7800)
 
-
+<hr>
 # Some notable features
 ## Tab group color
 - Tab group color is auto-generated based on the logo of the tab. For example, if you create a tab group on a tab with Youtube, the tab group will be red and all tabs that are part of that group will also become red.
